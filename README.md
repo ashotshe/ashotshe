@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ashotshe/osTicket---Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ashotshe/configure-ad)
+    
         Curating Users, using Group Policy, and Managing Accounts
         Permissions and Network Files practice
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ashotshe/azure-network-protocols)
