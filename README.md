@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ashotshe/configure-ad)
       - [Curating Users, using Group Policy, and Managing Accounts](https://github.com/ashotshe/Users-Group-Policy-Account-Management/blob/main/README.md)
-      - Permissions and Network Files practice
+      - [Permissions and Network Files practice](https://github.com/ashotshe/rr/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ashotshe/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
